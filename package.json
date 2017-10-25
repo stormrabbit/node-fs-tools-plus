@@ -1,6 +1,6 @@
 {
   "name": "spell-fs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "use Promise of ES6 to deal with fs of node,so that can be used in co function.",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,17 @@
     "co"
   ],
   "dependencies": {
-    "co": "^4.6.0"
+    "co": "^4.6.0",
+    "spell-fs": "^1.0.0"
   },
   "author": "leanhardt",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stormrabbit/powerword-fs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stormrabbit/powerword-fs/issues"
+  },
+  "homepage": "https://github.com/stormrabbit/powerword-fs#readme"
 }
