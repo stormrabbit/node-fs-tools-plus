@@ -1,0 +1,19 @@
+{
+  "name": "spell-fs",
+  "version": "1.0.0",
+  "description": "use Promise of ES6 to deal with fs of node,so that can be used in co function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "fs",
+    "promise",
+    "co"
+  ],
+  "dependencies": {
+    "co": "^4.6.0"
+  },
+  "author": "leanhardt",
+  "license": "ISC"
+}
